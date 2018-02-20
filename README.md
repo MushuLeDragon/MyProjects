@@ -10,7 +10,7 @@
 
 ## Projet Maven
 
-- [Maven Tutorial](https://github.com/MushuLeDragon/maven-tuto "maven-tuto")
+- [Comment initialiser un projet Maven](https://github.com/MushuLeDragon/maven-tuto "maven-tuto")
 
 ## Configuration .gitignore
 
