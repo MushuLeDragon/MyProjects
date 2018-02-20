@@ -2,7 +2,7 @@
 
 ## Les Markdowns
 
-- [Liste des différents Markdowns](https://github.com/MushuLeDragon/markdown-tuto "Les Markdowns")
+- [Liste des différents Markdowns](https://github.com/MushuLeDragon/markdown-tuto "markdown-tuto")
 
 ## TravisCI .travis.yml
 
@@ -10,7 +10,7 @@
 
 ## Projet Maven
 
-- [Maven Tutorial](https://github.com/MushuLeDragon/maven-tuto "MavenTuto")
+- [Maven Tutorial](https://github.com/MushuLeDragon/maven-tuto "maven-tuto")
 
 ## Configuration .gitignore
 
